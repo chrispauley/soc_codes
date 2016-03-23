@@ -1,0 +1,20 @@
+{
+  "name": "soc_codes",
+  "version": "1.0.0",
+  "description": "Get Standard Occupational Codes from a copy of the 2010 BLS list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrispauley/soc_codes.git"
+  },
+  "keywords": [],
+  "author": "Chris Pauley <pauleyc@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrispauley/soc_codes/issues"
+  },
+  "homepage": "https://github.com/chrispauley/soc_codes#readme"
+}
