@@ -1,0 +1,25 @@
+[{
+  "int_group": "1",
+  "major_group": "11-29",
+  "int_title": "Management, Business, Science, and Arts Occupations"
+}, {
+  "int_group": "2",
+  "major_group": "31-39",
+  "int_title": "Service Occupations"
+}, {
+  "int_group": "3",
+  "major_group": "41-43",
+  "int_title": "Sales and Office Occupations"
+}, {
+  "int_group": "4",
+  "major_group": "45-49",
+  "int_title": "Natural Resources, Construction, and Maintenance Occupations"
+}, {
+  "int_group": "5",
+  "major_group": "51-53",
+  "int_title": "Production, Transportation, and Material Moving Occupations"
+}, {
+  "int_group": "6",
+  "major_group": "55",
+  "int_title": "Military Specific Occupations"
+}]

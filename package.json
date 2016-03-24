@@ -4,7 +4,7 @@
   "description": "Get Standard Occupational Codes from a copy of the 2010 BLS list.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha src/index.test.js -w"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/chrispauley/soc_codes/issues"
   },
-  "homepage": "https://github.com/chrispauley/soc_codes#readme"
+  "homepage": "https://github.com/chrispauley/soc_codes#readme",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "2.4.5",
+    "require": "2.4.20"
+  }
 }

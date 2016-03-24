@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Test</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.2/jquery.min.js" charset="utf-8"></script>
+</head>
+
+<body>
+  <code>
+    $.getJSON("http://workspace.local:8888/HROS/soc_codes/src/soc_codes.json").then(function(json){
+       window.socCodes = json;
+    });
+  </code>
+
+  <h3>Reduce</h3>
+  <code>
+    var newobj = socCodes.reduce(function(all, item, index){
+        all[item.soc_code] = {"eeo_title": item.eeo_title, "job_title": item.job_title};
+        return all;
+    },{});
+
+    newobj["11-1011"].job_title
+
+  </code>
+</body>
+
+</html>

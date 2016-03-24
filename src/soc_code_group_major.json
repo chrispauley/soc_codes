@@ -1,0 +1,70 @@
+[{
+  "soc_code": "11-0000",
+  "eeo_title": "Management Occupations"
+}, {
+  "soc_code": "13-0000",
+  "eeo_title": "Business and Financial Operations Occupations"
+}, {
+  "soc_code": "15-0000",
+  "eeo_title": "Computer and Mathematical Occupations"
+}, {
+  "soc_code": "17-0000",
+  "eeo_title": "Architecture and Engineering Occupations"
+}, {
+  "soc_code": "19-0000",
+  "eeo_title": "Life, Physical, and Social Science Occupations"
+}, {
+  "soc_code": "21-0000",
+  "eeo_title": "Community and Social Service Occupations"
+}, {
+  "soc_code": "23-0000",
+  "eeo_title": "Legal Occupations"
+}, {
+  "soc_code": "25-0000",
+  "eeo_title": "Education, Training, and Library Occupations"
+}, {
+  "soc_code": "27-0000",
+  "eeo_title": "Arts, Design, Entertainment, Sports, and Media Occupations"
+}, {
+  "soc_code": "29-0000",
+  "eeo_title": "Healthcare Practitioners and Technical Occupations"
+}, {
+  "soc_code": "31-0000",
+  "eeo_title": "Healthcare Support Occupations"
+}, {
+  "soc_code": "33-0000",
+  "eeo_title": "Protective Service Occupations"
+}, {
+  "soc_code": "35-0000",
+  "eeo_title": "Food Preparation and Serving Related Occupations"
+}, {
+  "soc_code": "37-0000",
+  "eeo_title": "Building and Grounds Cleaning and Maintenance Occupations"
+}, {
+  "soc_code": "39-0000",
+  "eeo_title": "Personal Care and Service Occupations"
+}, {
+  "soc_code": "41-0000",
+  "eeo_title": "Sales and Related Occupations"
+}, {
+  "soc_code": "43-0000",
+  "eeo_title": "Office and Administrative Support Occupations"
+}, {
+  "soc_code": "45-0000",
+  "eeo_title": "Farming, Fishing, and Forestry Occupations"
+}, {
+  "soc_code": "47-0000",
+  "eeo_title": "Construction and Extraction Occupations"
+}, {
+  "soc_code": "49-0000",
+  "eeo_title": "Installation, Maintenance, and Repair Occupations"
+}, {
+  "soc_code": "51-0000",
+  "eeo_title": "Production Occupations"
+}, {
+  "soc_code": "53-0000",
+  "eeo_title": "Transportation and Material Moving Occupations"
+}, {
+  "soc_code": "55-0000",
+  "eeo_title": "Military Specific Occupations "
+}]

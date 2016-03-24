@@ -1,0 +1,54 @@
+[{
+    "int_group": "1",
+    "major_group": "11-13",
+    "int_title": "Management, Business, and Financial Occupations"
+  }, {
+    "int_group": "2",
+    "major_group": "15-19",
+    "int_title": "Computer, Engineering, and Science Occupations"
+  },{
+    "int_group": "3",
+    "major_group": "21-27",
+    "int_title": "Education, Legal, Community Service, Arts, and Media Occupations"
+  }, {
+    "int_group": "4",
+    "major_group": "29",
+    "int_title": "Healthcare Practitioners and Technical Occupations"
+  } {
+    "int_group": "5",
+    "major_group": "31-39",
+    "int_title": "Service Occupations"
+  } {
+    "int_group": "6",
+    "major_group": "41",
+    "int_title": "Sales and Related Occupations"
+  } {
+    "int_group": "7",
+    "major_group": "43",
+    "int_title": "Office and Administrative Support Occupations"
+  } {
+    "int_group": "8",
+    "major_group": "45",
+    "int_title": "Farming, Fishing, and Forestry Occupations"
+  } {
+    "int_group": "9",
+    "major_group": "47",
+    "int_title": "Construction and Extraction Occupations"
+  } {
+    "int_group": "10",
+    "major_group": "49",
+    "int_title": "Installation, Maintenance, and Repair Occupations"
+  } {
+    "int_group": "11",
+    "major_group": "51",
+    "int_title": "Production Occupations"
+  } {
+    "int_group": "12",
+    "major_group": "53",
+    "int_title": "Transportation and Material Moving Occupations"
+  } {
+    "int_group": "13",
+    "major_group": "55",
+    "int_title": "Military Specific Occupations"
+  }
+]
