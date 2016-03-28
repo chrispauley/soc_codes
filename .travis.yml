@@ -4,5 +4,5 @@ node_js:
 branches:
   only:
     -master
-notifications:
+#notifications:
 #  slack: simllc:eXgnuYv3vtax54HvfmQ4ZY28
