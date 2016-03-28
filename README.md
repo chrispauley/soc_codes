@@ -43,4 +43,4 @@ The fourth and fifth digits represent the broad occupation
 The sixth digit represents the detailed occupation.
 
 ## Build Status
-[Travis CI](https://travis-ci.org/chrispauley/soc_codes.svg?branch=master)
+[![Build Status](https://travis-ci.org/chrispauley/soc_codes.svg?branch=master)](https://travis-ci.org/chrispauley/soc_codes)
