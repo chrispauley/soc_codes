@@ -1,5 +1,6 @@
 # soc_codes
-This micro library is a wrapper for the 2010 Standard Occupational Codes that are published by the U.S. Bureau of Labor and Statistics. Though derived from the official website, it is not sanctioned by them. You've been warned. If you have questions, email the good people at soc@bls.gov
+This micro library is a wrapper for the 2010 Standard Occupational Codes that are published by the U.S. Bureau of Labor and Statistics. Though derived from the official website, it is not sanctioned by them. You've been warned. If you have questions about the data, email the good people at soc@bls.gov
+
 
 ### Server Side
 This package provides the data with wrappers provide a way to list, fetch and sort the data.
@@ -40,3 +41,6 @@ The first two digits represent the major group.
 The third digit represents a minor group.
 The fourth and fifth digits represent the broad occupation
 The sixth digit represents the detailed occupation.
+
+## Build Status
+[Travis CI](https://travis-ci.org/chrispauley/soc_codes.svg?branch=master)
