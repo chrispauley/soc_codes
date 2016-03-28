@@ -4,7 +4,7 @@
   "description": "Get Standard Occupational Codes from a copy of the 2010 BLS list.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha src/index.test.js -w"
+    "test": "mocha src/index.test.js "
   },
   "repository": {
     "type": "git",
