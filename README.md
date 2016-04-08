@@ -1,4 +1,5 @@
-# soc_codes
+# soc_codes [![Build Status](https://travis-ci.org/chrispauley/soc_codes.svg?branch=master)](https://travis-ci.org/chrispauley/soc_codes)
+
 This micro library is a wrapper for the 2010 Standard Occupational Codes that are published by the U.S. Bureau of Labor and Statistics. Though derived from the official website, it is not sanctioned by them. You've been warned. If you have questions about the data, email the good people at soc@bls.gov
 
 
@@ -42,5 +43,16 @@ The third digit represents a minor group.
 The fourth and fifth digits represent the broad occupation
 The sixth digit represents the detailed occupation.
 
-## Build Status
-[![Build Status](https://travis-ci.org/chrispauley/soc_codes.svg?branch=master)](https://travis-ci.org/chrispauley/soc_codes)
+### Install
+$ npm install soc_codes
+
+### NodeJS
+Install using npm then:
+````
+// ES5:
+var socCodes = require('soc_code);
+
+var item = socCodes.filter("11-1011") {
+  return item.name;
+}
+````

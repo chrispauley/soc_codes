@@ -1,6 +1,6 @@
 {
   "name": "soc_codes",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Get Standard Occupational Codes from a copy of the 2010 BLS list.",
   "main": "index.js",
   "scripts": {

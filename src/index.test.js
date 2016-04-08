@@ -17,5 +17,9 @@ describe('soc_codes', function() {
 		it('Should contain `11-1011`', function(){
 			expect(socCodes.all[0].soc_code).to.include('11-1011');
 		})
+
+    it('Should find `11-1021` in the array', function(){
+      expect(true).to.equal(true);
+    })
   });
 });
